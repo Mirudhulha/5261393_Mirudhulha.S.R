@@ -7,3 +7,4 @@
 ![](linux/commands_linux_screenshots/linux4.png)
 ![](linux/commands_linux_screenshots/linux5.png)
 ![](linux/commands_linux_screenshots/linux6.png)
+![](linux/commands_linux_screenshots/linux7.png)
