@@ -10,3 +10,4 @@
 ![](linux/commands_linux_screenshots/linux7.png)
 ![](linux/commands_linux_screenshots/linux8.png)
 ![](linux/commands_linux_screenshots/linux_day3_1.png)
+![](linux/commands_linux_screenshots/linux_day3_2.png)
