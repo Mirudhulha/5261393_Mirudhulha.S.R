@@ -13,3 +13,4 @@
 ![](linux/commands_linux_screenshots/linux_day3_1.png)
 ![](linux/commands_linux_screenshots/linux_day3_2.png)
 ![](linux/commands_linux_screenshots/linux_day3_3.png)
+![](c/sololearn_intro_certificate.png)
