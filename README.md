@@ -14,4 +14,4 @@
 ![](linux/commands_linux_screenshots/linux_day3_2.png)
 ![](linux/commands_linux_screenshots/linux_day3_3.png)
 ![](c/Sololearn_intro.png)
-
+![](c/Sololearn_intermediate.png)
