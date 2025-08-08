@@ -22,9 +22,7 @@ int parse_int(char*);
  * The function accepts INTEGER_ARRAY arr as parameter.
  */
 
-#include <stdio.h>
 
-#include <stdio.h>
 
 void miniMaxSum(int arr_count,int* arr){
     long total=0;
